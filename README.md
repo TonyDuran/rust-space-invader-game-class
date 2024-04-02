@@ -3,4 +3,4 @@ Copy Walkthrough from Ultimate Rust Crash Course
 
 This class was created by Nathan Stocks. Here is a link to his github for the project: https://github.com/CleanCut/invaders
 
-His class: https://www.udemy.com/course/ultimate-rust-crash-course/
+The class: https://www.udemy.com/course/ultimate-rust-crash-course/
